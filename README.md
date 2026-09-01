@@ -1,2 +1,2 @@
 # test1
-This is my github learning repo
+This is my github learning repository
